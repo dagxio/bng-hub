@@ -1,9 +1,9 @@
 /*jslint node: true */
 "use strict";
-require('byteball-relay');
+require('bng-relay');
 var conf = require('./conf');
-var network = require('byteballcore/network');
-var eventBus = require('byteballcore/event_bus.js');
+var network = require('bng-core/network');
+var eventBus = require('bng-core/event_bus.js');
 var push = require('./push');
 const price_feed = require('./exchange_price_feed');
 

@@ -1,5 +1,5 @@
 {
-  "name": "byteball-hub",
+  "name": "bng-hub",
   "description": "Byteball Hub",
   "author": "Byteball",
   "version": "0.1.5",
@@ -26,7 +26,7 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteball-relay": "git+https://github.com/byteball/byteball-relay.git",
+    "byteball-relay": "git+https://github.com/dagxio/bng-relay.git",
     "request": "^2.81.0"
   }
 }
