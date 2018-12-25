@@ -26,7 +26,7 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteball-relay": "git+https://github.com/dagxio/bng-relay.git",
+    "bng-relay": "git+https://github.com/dagxio/bng-relay.git",
     "request": "^2.81.0"
   }
 }
